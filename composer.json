@@ -5,7 +5,7 @@
   "require": {
     "php": "^7.3|^7.4",
     "ext-json": "*",
-    "laravel/lumen-framework": "^6.3"
+    "laravel/framework": "^6.3|^7.0"
   },
   "autoload": {
     "classmap": [
